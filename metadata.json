@@ -1,0 +1,6 @@
+{
+  "name": "Automotive Aerodynamics Platform",
+  "description": "Professional browser-based automotive virtual wind tunnel and aerodynamic simulation platform featuring WebGPU/WebGL acceleration, adaptive RK2 streamline integration, moving ground plane rolling road simulation, and dynamic procedural aeroacoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
